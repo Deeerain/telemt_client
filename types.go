@@ -1,4 +1,4 @@
-package main
+package telemtclient
 
 type TelemtError struct {
 	Code    string `json:"code"`
